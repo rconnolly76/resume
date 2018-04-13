@@ -1,5 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
+
+title: "Newer Resume Roger Template"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,6 +11,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
+
 resume_name:                    "Malecodertocat"
 resume_title:                   "Web Developer"
 resume_contact_email:           "services@github.com"
@@ -17,6 +19,7 @@ resume_contact_telephone:       "1 (877) 448-4820"
 resume_contact_address:         "New York, NY"
 resume_header_contact_info: "San Francisco, CA | 1 (877) 448-4820 | services@github.com"
 resume_header_intro: "<p>Professional Web Developer with an interest in Open Source and Education</p>"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
