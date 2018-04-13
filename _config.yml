@@ -1,6 +1,7 @@
 # Site settings
-title: "Roger Resume Template"
-description: "A resume template for Roger and GitHub Pages sites."
+
+title: "Newer Resume Roger Template"
+description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
